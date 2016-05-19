@@ -1,0 +1,17 @@
+{
+  "resources": [
+    {
+      "name": "bestand-veehouderijbedrijven",
+      "path": "data/bestand-veehouderijbedrijven.geojson",
+      "format": "geojson",
+      "mediatype": "application/json",
+      "bytes": 44425978
+    }
+  ],
+  "name": "bestand-veehouderijbedrijven",
+  "title": "Bestand Veehouderbedrijven",
+  "description": "Het bestand bevat de actuele agrarische vergunninggegevens of meldingen van veehouderijbedrijven zoals bekend in de provinciale Bestand Veehouderijbedrijven (BVB). In het bestand staan per emissiepunt, gebouw of productielocatie de diercategorie, staltype en additionele technieken volgens de RAV (Regeling ammoniak en veehouderij) en de in BVB berekende emissiefactor voor ammoniak.",
+  "homepage": "http://nationaalgeoregister.nl/geonetwork/srv/dut/search#|6e59592e-3251-4334-b34a-73dcbb69ffb0",
+  "version": "0.1.0",
+  "license": "ODC-PDDL-1.0"
+}
