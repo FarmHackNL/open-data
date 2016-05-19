@@ -1,0 +1,9 @@
+{
+  "resources": [],
+  "name": "brp-gewaspercelen",
+  "title": "BRP Gewaspercelen",
+  "description": "Gewaspercelen bestaat uit de locatie van landbouwpercelen met daaraan gekoppeld het geteelde gewas. Het bestand is een selectie van informatie uit de Basisregistratie Percelen (BRP) van de Rijksdienst voor Ondernemend Nederland. De omgrenzingen van de landbouwpercelen zijn gebaseerd op het Agrarisch Areaal Nederland (AAN). De gebruiker van het perceel dient jaarlijks zijn gewaspercelen in te tekenen en aan te geven welk gewas wordt geteeld op het betreffende perceel. Van elk jaar wordt een dataset gegenereerd van peildatum 15 mei.",
+  "homepage": "https://data.overheid.nl/data/dataset/basisregistratie-gewaspercelen-brp",
+  "version": "0.1.0",
+  "license": "ODC-PDDL-1.0"
+}
