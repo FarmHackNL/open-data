@@ -13,7 +13,7 @@ Clone deze repository en voer `<dataset>/scripts/process.sh` uit om de data binn
     cd brp-gewaspercelen/scripts/
     ./process.sh
     
-De data vind je in `brp-gewaspercelen/data/`
+De data vind je in `brp-gewaspercelen/data/`.
 
 ## gebruiken
 
@@ -23,4 +23,4 @@ De data vind je in `brp-gewaspercelen/data/`
 
 ## documentatie 
 
-pdok-ngr.readthedocs.io
+https://pdok-ngr.readthedocs.io
