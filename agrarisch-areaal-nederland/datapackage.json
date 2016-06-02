@@ -1,0 +1,9 @@
+{
+  "resources": [],
+  "name": "agrarisch-areaal-nederland",
+  "title": "Agrarisch Areaal Nederland",
+  "description": "Geografische afbakening van landbouwgrond in Nederland (grond die wordt gebruikt als bouwland, blijvend grasland of de teelt van blijvende gewassen).",
+  "homepage": "https://data.overheid.nl/data/dataset/agrarisch-areaal-nederland-aan",
+  "version": "0.1.0",
+  "license": "ODC-PDDL-1.0"
+}
