@@ -1,6 +1,6 @@
-In deze repository staat een selectie van interessante open geo datasets. Elke dataset is opgebouwd volgens de [frictionless data standaard](http://data.okfn.org) van de Open Knowledge Foundation. Nieuwsgierig? Lees verder bij `Datapackages`.
+In deze repository vind e een selectie van interessante open geo datasets. Elke dataset is opgebouwd volgens de [frictionless data standaard](http://data.okfn.org) van de Open Knowledge Foundation. **Nieuwsgierig**? Zie `Data Packages`.
 
-Wil je z.s.m. de data downloaden? Ga naar de [data.ndkv.nl/farmhack/](https://data.ndkv.nl/farmhack/). De `agrarisch-areaal-nederland` dataset vind je bijv. op [https://data.ndkv.nl/farmhack/open-data/agrarisch-areaal-nederland/data](https://data.ndkv.nl/farmhack/open-data/agrarisch-areaal-nederland/data).
+**Wil je z.s.m. de data downloaden**? Ga naar de [data.ndkv.nl/farmhack/](https://data.ndkv.nl/farmhack/). De `agrarisch-areaal-nederland` dataset vind je bijv. op [https://data.ndkv.nl/farmhack/open-data/agrarisch-areaal-nederland/data](https://data.ndkv.nl/farmhack/open-data/agrarisch-areaal-nederland/data).
 
 Het gros van de FarmHack gegevens datasets een ruimtelijk component. Gebruik een van onderstaande om de geodata te transformeren, analyseren en visualiseren.
 
