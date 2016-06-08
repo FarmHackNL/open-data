@@ -13,6 +13,8 @@ Het gros van de FarmHack  datasets heeft een ruimtelijk component. Gebruik één
 - [PostGIS](http://postgis.net) - Geo plug-in voor PostgresSQL
 - [Turf.js](http://turfjs.org) - Geo in JavaScript (browser én desktop)
 
+We adviseren je deze tools voor aanvang van de FarmHack te installeren (indien mogelijk).
+
 # Data packages
 > [...] lightweight "packaging" format for data that provide a basis for convenient publication, installation and management of datasets.
 >
