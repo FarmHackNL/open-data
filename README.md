@@ -1,8 +1,12 @@
-In deze repository vind e een selectie van interessante open geo datasets. Elke dataset is opgebouwd volgens de [frictionless data standaard](http://data.okfn.org) van de Open Knowledge Foundation. **Nieuwsgierig**? Zie `Data Packages`.
+In deze repository vind je een selectie van interessante (landelijke) open geo datasets. Elke dataset is opgebouwd volgens de [frictionless data standaard](http://data.okfn.org) van de Open Knowledge Foundation.
 
-**Wil je z.s.m. de data downloaden**? Ga naar de [data.ndkv.nl/farmhack/](https://data.ndkv.nl/farmhack/). De `agrarisch-areaal-nederland` dataset vind je bijv. op [https://data.ndkv.nl/farmhack/open-data/agrarisch-areaal-nederland/data](https://data.ndkv.nl/farmhack/open-data/agrarisch-areaal-nederland/data).
+**Nieuwsgierig**? Lees verder bij `Data packages`.
 
-Het gros van de FarmHack gegevens datasets een ruimtelijk component. Gebruik een van onderstaande om de geodata te transformeren, analyseren en visualiseren.
+**Direct data downloaden**? Ga naar [data.farmhack.nl](https://data.farmhack.nl/open-data).
+
+**Vragen, tips en data requests**? Plaats ze in de [issue tracker](https://github.com/FarmHackNL/open-data/issues).
+
+Het gros van de FarmHack  datasets heeft een ruimtelijk component. Gebruik één van onderstaande om de geodata te transformeren, te analyseren en/of te visualiseren.
 
 - [CartoDB](https://cartodb.com) - Geodata in de browser
 - [QGIS](http://www.qgis.org/en/site/) - Geodata op de desktop
@@ -14,12 +18,17 @@ Het gros van de FarmHack gegevens datasets een ruimtelijk component. Gebruik een
 >
 > They aim to deliver functionality similar to "packaging" in software and "containerization" in shipping: a simple wrapper and basic structure for transportation of data that significantly reduces the friction in data sharing and integration, supports automation and does this without imposing major changes on the underlying data being packaged.
 
-Een `data package` bestaat uit een `build script`, `meta data` en evt. de `data` zelf. Het ophalen van data geschiedt door de `build script` in `<data-package>/scripts/` uit te voeren.
+Een `data package` bestaat uit een `build script`, `meta data` en evt. de `data` zelf. De `build script` haal de data op, schoont het op, transformeert het en koppelt het evt. aan andere datasets. Elke map in deze repository is een `data package`.
 
 # Waarom data packages?
-TODO
 
-# lokaal installeren
+`Data packages` automatiseren het binnenhalen, opschonen, transformeren en koppelen van de data. Ze maken het tijdrovende [extract, transform, load](https://en.wikipedia.org/wiki/Extract,_transform,_load) proces expliciet, en inzichtelijk. Belangrijker: ze stellen anderen/de gemeenschap in staat het download recept te verbeteren en uit te breiden.
+
+Op den duur resulteert dit in een verzameling bruikbare datasets die je met één commando/klik binnen kunt halen. Zie bijv. de [Data Packaged Core Datasets](https://github.com/datasets) initiatief van de Open Knowledge Foundation.
+
+Het streven is om een soortgelijke repository voor Nederlandse agri data te verwezenlijken.
+
+# FarmHack data packages installeren
 
 ## benodigdheden
 
