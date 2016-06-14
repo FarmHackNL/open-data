@@ -6,14 +6,15 @@ In deze repository vind je een selectie van interessante (landelijke) open geo d
 
 **Vragen, tips en data requests**? Plaats ze in de [issue tracker](https://github.com/FarmHackNL/open-data/issues).
 
-Het gros van de FarmHack  datasets heeft een ruimtelijk component. Gebruik één van onderstaande om de geodata te transformeren, te analyseren en/of te visualiseren.
+Het gros van de FarmHack  datasets heeft een ruimtelijk component. Gebruik één van onderstaande (web) applicaties om de geodata te transformeren, te analyseren en/of te visualiseren.
 
 - [CartoDB](https://cartodb.com) - Geodata in de browser
 - [QGIS](http://www.qgis.org/en/site/) - Geodata op de desktop
-- [PostGIS](http://postgis.net) - Geo plug-in voor PostgresSQL
-- [Turf.js](http://turfjs.org) - Geo in JavaScript (browser én desktop)
+- [PostGIS](http://postgis.net) - Geodata plug-in voor PostgresSQL
+- [Turf.js](http://turfjs.org) - Geodata in JavaScript (browser én desktop)
+- [GDAL](http://www.gdal.org) - Geodata in de terminal
 
-We adviseren je deze tools voor aanvang van de FarmHack te installeren (indien mogelijk).
+We adviseren je deze tools voor aanvang van de FarmHack te installeren. **Vooral QGIS is een must have: hiermee kun je o.a. geodata slicen en naar andere bestandsformats tranformeren bijv. van Shapefile naar GeoJSON.**
 
 # Data packages
 > [...] lightweight "packaging" format for data that provide a basis for convenient publication, installation and management of datasets.
