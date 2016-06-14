@@ -12,7 +12,7 @@ Het gros van de FarmHack  datasets heeft een ruimtelijk component. Gebruik één
 - [QGIS](http://www.qgis.org/en/site/) - Geodata op de desktop
 - [PostGIS](http://postgis.net) - Geodata plug-in voor PostgresSQL
 - [Turf.js](http://turfjs.org) - Geodata in JavaScript (browser én desktop)
-- [GDAL](http://www.gdal.org) - Geodata in de terminal
+- [GDAL](http://www.gdal.org) - Geodata in de terminal. In [gdal-installation-notes.md](https://github.com/FarmHackNL/open-data/blob/master/gdal-installation-notes.md) lees je hoe je GDAL op Linux, OS X en Windows kan installeren.
 
 We adviseren je deze tools voor aanvang van de FarmHack te installeren. **Vooral QGIS is een must have: hiermee kun je o.a. geodata slicen en naar andere bestandsformats tranformeren bijv. van Shapefile naar GeoJSON.**
 
@@ -36,7 +36,7 @@ Het streven is om een soortgelijke repository voor Nederlandse agri data te verw
 ## benodigdheden
 
 - een Bash-like omgeving
-- de `ogr2ogr` _command line utility_. Deze is onderdeel van de Geospatial Data Abstraction Library. See `gdal-installation-notes.md` for installation instructions for Linux, OS X and Windows.
+- de `ogr2ogr` _command line utility_. Deze is onderdeel van de Geospatial Data Abstraction Library. See [gdal-installation-notes.md](https://github.com/FarmHackNL/open-data/blob/master/gdal-installation-notes.md) for installation instructions for Linux, OS X and Windows.
 
 ## downloaden
 
