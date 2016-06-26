@@ -42,8 +42,8 @@ Het streven is om een soortgelijke repository voor Nederlandse agri data te verw
 
 Clone deze repository en voer `<dataset>/scripts/process.sh` uit om de data binnen te halen. `brp-percelen` haal je binnen door 
 
-    git clone https://github.com/FarmHackNL/data
-    cd brp-gewaspercelen/scripts/
+    git clone https://github.com/FarmHackNL/open-data
+    cd open-data/brp-gewaspercelen/scripts/
     ./process.sh
 
 De script haalt de data op, transformeert het (indien nodig) en slaat het op in `brp-gewaspercelen/data/`.
