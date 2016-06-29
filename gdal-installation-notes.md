@@ -1,14 +1,20 @@
 # Linux (Ubuntu)
 
-The easiest way to install GDAL on Ubuntu is through the [UbuntuGIS](https://launchpad.net/~ubuntugis/+archive/ubuntu/ppa) Personal Package Archive.
+In case you're running Ubuntu 16.04 'xenial' or higher, you can just
 
-1. `sudo add-apt-repository ppa:ubuntugis/ppa`
-2. `sudo apt-get update`
-3. `sudo apt-get install gdal`
+    sudo apt-get install gdal-bin
+
+If you're running a lower Ubuntu version, you may need the [UbuntuGIS](https://launchpad.net/~ubuntugis/+archive/ubuntu/ppa) package archive first:
+
+    sudo add-apt-repository ppa:ubuntugis/ppa
+    sudo apt-get update
+    sudo apt-get install gdal-bin
 
 That's it! Run `ogr2ogr` to test whether everything works; you should see `ogr2ogr`'s help page.
 
 **Bonus**: `sudo apt-get install qgis` to get QGIS.
+
+For other distributions, please see instructions on the [GDAL](http://trac.osgeo.org/gdal/wiki/DownloadingGdalBinaries) and [QGIS](http://qgis.org/en/site/forusers/alldownloads.html#linux) websites.
 
 # OS X
 
